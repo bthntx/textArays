@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "BthnTx\\": "src/"
+    },
+    "psr-0": {
+      "BthnTxTests\\": "tests/"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^8.1"
+  }
+}
